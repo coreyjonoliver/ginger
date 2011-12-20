@@ -7,6 +7,7 @@ A Computer Algebra System written in OCaml.
 Requirements
 ------------
   * OCaml
+  * [OCaml with Batteries][1]
 
 Usage
 -----
@@ -30,5 +31,4 @@ PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
 TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 
-[1]: http://pypi.python.org/pypi/pip
-[2]: http://tilloy.net/dev/pyexiv2/
+[1]: http://batteries.forge.ocamlcore.org/
