@@ -12,6 +12,32 @@ Requirements
 Usage
 -----
 
+The Ginger project includes one command line tool: `gingeri`, the
+Ginger interpreter. `gingeri` uses standard input for the Ginger input
+and standard output for the program output. For example, to interpret
+the Ginger script `foo.ginger` and write the output of `gingeri` to
+the file `bar.out` you would use the following command:
+
+    ./gingeri < foo.ginger > bar.out
+
+Language Tutorial
+-----------
+
+A brief tutorial for getting started using Ginger is provided in
+`tutorial/`.
+
+Language Manual
+---------------
+
+A manual for the input language of Ginger is available in
+`manual/language-input.txt`.
+
+Architecture
+------------
+
+A brief document describing the architecture of Ginger is given in
+`manual/architecture.txt`.
+
 License
 -------
 
