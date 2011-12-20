@@ -1,0 +1,8 @@
+The Ginger Language
+================================================================
+Corey Oliver, 2011
+
+The Input Language
+------------
+
+The Ginger input language is 
